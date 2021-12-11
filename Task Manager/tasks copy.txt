@@ -1,0 +1,10 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 2021-10-19, 2021-11-19, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 2019-10-19, 2019-10-20, No
+naruto, hokage duties, carry out your hokage duties and stuff, 2021-10-19, 2021-12-10, Yes
+kingjames, get ready for nba season, get ready for the 2021/2022 nba season, 2021-10-19, 2021-10-20, Yes
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 2019-10-10, 2019-10-20, No
+goku, fight, fight in the tournament of power, 2020-10-19,2020-12-25, No
+kingjames, win, win the 2021/2022 nba championship, 2021-10-19, 2022-06-15, No
+naruto, bond, bond with your family and friends, 2021-10-19, 2021-12-25, No
+goku, train, go training with Vegta, 2021-10-20, 2020-11-12, No
+sonic, run, run around and collect rings, 2021-10-21, 2021-11-23, Yes

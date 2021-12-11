@@ -1,0 +1,28 @@
+        
+-----USER OVERVIEW REPORT-----
+A total of 6 user(s) have been registered.
+A total of 10 task(s) have been generated and tracked.
+admin has 3 task(s) assigned to them.
+kingjames has 2 task(s) assigned to them.
+spiderman has 0 task(s) assigned to them.
+sonic has 1 task(s) assigned to them.
+goku has 2 task(s) assigned to them.
+naruto has 2 task(s) assigned to them.
+admin has completed 33.33% of the task(s) assigned to them.
+kingjames has completed 50.0% of the task(s) assigned to them.
+spiderman has completed 0% of the task(s) assigned to them.
+sonic has completed 100.0% of the task(s) assigned to them.
+goku has completed 0% of the task(s) assigned to them.
+naruto has completed 50.0% of the task(s) assigned to them.
+admin has not completed 66.67% of the task(s) asssigned to them.
+kingjames has not completed 50.0% of the task(s) asssigned to them.
+spiderman has not completed 0% of the task(s) asssigned to them.
+sonic has not completed 0% of the task(s) asssigned to them.
+goku has not completed 100.0% of the task(s) asssigned to them.
+naruto has not completed 50.0% of the task(s) asssigned to them.
+33.33% of admin's tasks are incomplete and overdue.
+0% of kingjames's tasks are incomplete and overdue.
+0% of spiderman's tasks are incomplete and overdue.
+0% of sonic's tasks are incomplete and overdue.
+100.0% of goku's tasks are incomplete and overdue.
+0% of naruto's tasks are incomplete and overdue.
